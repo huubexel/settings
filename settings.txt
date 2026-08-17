@@ -1,0 +1,9 @@
+Terminal shell:
+    Type: BASH
+    in ~/.bashrc:
+    Editor color and path representation: PS1='\[\e[96m\]\h\[\e[0m\]:\w \u\$ '
+
+Ghostty:
+    in config.ghostty
+    font-size = 14
+    theme = Flatland
