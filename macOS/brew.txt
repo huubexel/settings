@@ -1,0 +1,3 @@
+The things I have installed for brew:
+
+brew install --cask ghostty
